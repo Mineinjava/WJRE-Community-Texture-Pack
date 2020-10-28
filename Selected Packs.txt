@@ -1,0 +1,12 @@
+Vanilla Tweaks Resource Pack
+Version: 1.16
+Packs:
+	GrassSides
+	MyceliumSides
+	PathSides
+	PodzolSides
+	SnowSides
+	CrimsonNyliumSides
+	WarpedNyliumSides
+	PingColorIndicator
+	ItemStitchingFix
